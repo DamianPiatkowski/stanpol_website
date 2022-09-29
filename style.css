@@ -96,7 +96,7 @@ h1, h2 {
 
 /* Background photo utility */
 .background-photo {
-    background: url(/img/pexels-aleksejs-bergmanis-681335.jpg) no-repeat center center/cover;
+    background: url(img/background-transport-traffic.jpg) no-repeat center center/cover;
     height: 100vh;
     position: relative;
     color: #fff;
@@ -304,7 +304,7 @@ width: 2912px;
   /* Next & previous buttons */
   .prev, .next {
     cursor: pointer;
-    position: absolute;
+    position: relative;
     top: 50%;
     width: auto;
     margin-top: -22px;
